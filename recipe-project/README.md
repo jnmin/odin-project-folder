@@ -1,0 +1,1 @@
+Recipe project containing simple recipes
